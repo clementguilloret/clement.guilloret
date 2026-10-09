@@ -7,7 +7,7 @@
 [🏠 Accueil](README.md) | [👤 Présentation](presentation.md) | [🎓 Compétences](competences.md) | [📁 Projets](projets.md)
 
 ### Sur cette page
-[Présentation](#presentation) | [Parcours](#parcours) | [Expériences](#experiences)
+[Présentation](#présentation) | [Parcours](#parcours) | [Expériences](#expériences)
 
 ---
 <br>
