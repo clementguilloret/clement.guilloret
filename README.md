@@ -5,3 +5,20 @@
 
 
 [🏠 Accueil](README.md) | [👤 Présentation](presentation.md) | [🎓 Compétences](competences.md) | [📁 Projets](projets.md)
+
+### Sur cette page
+[Présentation](#presentation) | [Parcours](#parcours) | [Expériences](#experiences)
+
+---
+
+## Présentation
+
+Bonjour, je suis étudiant(e) et voici mon e-portfolio.
+
+## Parcours
+
+Voici mon parcours scolaire et professionnel.
+
+## Expériences
+
+Voici mes différentes expériences.
